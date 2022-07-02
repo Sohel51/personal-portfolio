@@ -1,0 +1,15 @@
+*{
+    margin: 0; padding: 0;
+}
+
+header{
+    background-image: url("images/top-banner.png");
+    background: no-repeat;
+}
+
+.content{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
